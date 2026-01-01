@@ -1,0 +1,6 @@
+logseq/bak/
+.DS_Store
+*.log
+*.aux
+*.synctex.gz
+.claude/settings.local.json
